@@ -7,7 +7,7 @@ The community modelling code integrates individual models in to paiwise communit
 
 All the individual models are given in the Final_GEM directory.
 
-The script for Community_model_reconstruction code has also been provided in the code_BtB directory as Community_model_recostruction.ipynb.
+The script for Community_model_reconstruction code has also been provided as Community_model_recostruction.ipynb.
 
 The Out Community model will be generated in the Output_GCM directory.
 The FBA data will be generated in the Output_FBA directory.
